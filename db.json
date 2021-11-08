@@ -1,0 +1,88 @@
+{  
+    "top_news": [
+      {
+       "id": 1, 
+       "title": "10 dicas para cães saudáveis e felizes.",
+       "description": "Confira 10 dicas para deixar seu cachorro feliz e saudável",
+       "photo": "https://image.freepik.com/free-photo/close-up-portrait-pleased-girl-with-short-brown-hair-embracing-funny-beagle-dog-with-eyes-closed_197531-4842.jpg",
+       "date": "25/02/2021"
+    }
+    ],
+  
+    "care_news": [
+      {
+       "id": 1, 
+       "title": "Veja 12 dicas de como acabar com carrapatos no quintal",
+       "description": "Como acabar com carrapatos no quintal? Receitas caseiras podem ser a solução!",
+       "photo": "https://static1.patasdacasa.com.br/articles/7/75/7/@/3229-quer-saber-como-acabar-com-carrapatos-no-1000x600-4.jpg",
+       "date": "14/02/2021"
+      },
+      {
+       "id": 2, 
+       "title": "Creme dental para cachorro: o que levar em conta na hora de escolher a melhor para o seu pet?",
+       "description": "Por que é importante comprar um creme dental para cães?",
+       "photo": "https://static1.patasdacasa.com.br/articles/3/38/33/@/15888-creme-dental-para-cachorro-um-produto-e-1000x600-2.jpg",
+       "date": "30/10/2021"
+      },
+      {
+       "id": 3, 
+       "title": "Castração de cachorro: 7 perguntas e respostas sobre a esterilização canina",
+       "description": "Com quantos meses pode castrar o cachorro?",
+       "photo": "https://static1.patasdacasa.com.br/articles/0/36/70/@/14433-saber-com-quantos-meses-pode-castrar-cac-1000x600-2.jpg",
+       "date": "25/09/2021"
+      },
+      {
+       "id": 4, 
+       "title": "5 dicas de como cortar unha preta de cachorro",
+       "description": "Como cortar a unha de cachorro: tudo começa com a preparação do pet",
+       "photo": "https://static1.patasdacasa.com.br/articles/5/36/85/@/14493-como-cortar-unha-preta-de-cachorro-e-ne-1000x600-2.jpg",
+       "date": "21/01/2021"
+      },
+      {
+       "id": 5, 
+       "title": "Veja 12 dicas de como acabar com carrapatos no quintal",
+       "description": "Como acabar com carrapatos no quintal? Receitas caseiras podem ser a solução!",
+       "photo": "https://static1.patasdacasa.com.br/articles/7/75/7/@/3229-quer-saber-como-acabar-com-carrapatos-no-1000x600-4.jpg",
+       "date": "28/10/2021"
+      }
+      
+    ],
+    "curiosities_news": [
+      {
+       "id": 1, 
+       "title": "Pode dar osso para o cachorro?",
+       "description": "Afinal, por que cachorro gosta de osso ?",
+       "photo": "https://www.petlove.com.br/dicas/wp-content/uploads/2021/10/cachorro-osso-petlove.jpg",
+       "date": "20/06/2021"
+      },
+      {
+       "id": 2, 
+       "title": "Por que meu cachorro lambe a pata?",
+       "description": "Com qual frequência é normal o cachorro lamber a pata?",
+       "photo": "https://www.petlove.com.br/dicas/wp-content/uploads/2021/10/cachorro-lambendo-pata-Petlove.jpg",
+       "date": "15/07/2021"
+      },
+      {
+       "id": 3, 
+       "title": "Por que cachorro come mato? Entenda sobre o assunto!",
+       "description": "Por que cachorro come mato?",
+       "photo": "https://www.petlove.com.br/dicas/wp-content/uploads/2021/10/cachorro-comendo-mato-petlove.jpg",
+       "date": "28/04/2021"
+      },
+      {
+       "id": 4, 
+       "title": "Como levar cachorro no avião",
+       "description": "Pode viajar com o cachorro de avião?",
+       "photo": "https://www.petlove.com.br/dicas/wp-content/uploads/2021/10/cachorro-aviao-petlove.jpg",
+       "date": "19/05/2021"
+      },
+      {
+       "id": 5, 
+       "title": "Como higienizar os potes do seu pet",
+       "description": "Por que eu devo higienizar os potes do meu cachorro ou gato com frequência?",
+       "photo": "https://www.petlove.com.br/dicas/wp-content/uploads/2021/10/pote-cachorro-petlove.jpg",
+       "date": "13/08/2021"
+      }
+      
+    ]
+  }
